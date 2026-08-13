@@ -61,4 +61,4 @@ Feel free to reach out for collaboration, freelance opportunities, or technical 
 
 ---
 
-> "First, solve the problem. Then, write the code."
+> "First, create a problem. Then, fix it."
