@@ -4,11 +4,12 @@ I'm Charles, just a normal person.
 
 ## 📌 Current Focus
 
-* Building maintainable Laravel applications
-* Improving software architecture and code quality
-* Learning modern DevOps practices
-* Exploring cloud infrastructure and automation
-
+* (Trying to) build maintainable Laravel applications
+* (Still trying to) improve software architecture and code quality
+* (Need a miracle to) learn modern DevOps practices
+* (When everything else works) explore cloud infrastructure and automation
+* (Questioning my life choices) keep doing all of this
+  
 ---
 
 > "First, create a problem. Then, fix it."
